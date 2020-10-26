@@ -1,0 +1,45 @@
+body{
+	background: #ffff99 url(puzir.png);
+}
+img{
+	width: 300px;
+	height: 500px;
+	margin: 15px 10px 20px 10px;
+	float: left;
+}
+.im1{
+	position: absolute;
+	right: 10px;
+	top: 15px;
+}
+h1{
+	color: #d1ab00;
+	size: 30px;
+	font-family: Georgia, serif;
+}
+.zag{
+	position: absolute;
+	top: 20px;
+	left: 30%;
+}
+div{
+	width: 500px;
+	height: 300px;
+	color:#f5c400 ;
+	font:20px  Georgia, serif  ;
+	background-color: #fae093;
+	padding: 20px 20px;
+}
+.text{
+	position: absolute;
+	top: 150px;
+	left: 32%
+}
+.port{
+	margin-top: 550px;
+	margin-left: 50px;
+}
+a{
+	color: #ffbb29;
+	font-size: 20px;
+}
